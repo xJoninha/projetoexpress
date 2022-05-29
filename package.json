@@ -1,0 +1,27 @@
+{
+  "name": "projetoexpress",
+  "version": "1.0.0",
+  "description": "Repositório para acompanhar as aulas do Playground(DigitalHouse), com o professor vinicius",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xJoninha/projetoexpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xJoninha/projetoexpress/issues"
+  },
+  "homepage": "https://github.com/xJoninha/projetoexpress#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
